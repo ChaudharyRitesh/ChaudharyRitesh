@@ -1,4 +1,4 @@
-# Hey its me, Ritesh <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif>
+# Hey its me, Ritesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif>
 
 <a href="https://twitter.com/intent/follow?screen_name=riteshdheeraj&tw_p=followbutton/">Twitter</a> •
 <a href="https://www.linkedin.com/in/riteshchaudhari7/">LinkedIn</a> •
