@@ -9,11 +9,8 @@
 
 - 🔭 I’m currently working on various open-source web projects using React & Go.
 - 🌱 Former React Developer Intern @ [Websoft Technology Nepal Pvt Ltd](https://websoftnepal.com.np/)
-- 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
-- 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: riteshchaudhary587@gmail.com, [Twitter](https://twitter.com/riteshdheeraj), [LinkedIn](https://www.linkedin.com/in/riteshchaudhari7/)
-- 😄 Pronouns: he/him
 
 
 ### Technologies I can work with
