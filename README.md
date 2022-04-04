@@ -7,7 +7,7 @@
 <a href="https://instagram.com/itsriteshchaudhari/">Instagram</a>
 <br />
 
-- 🔭 I’m currently working on various open-source web projects using React & Go.
+- 🔭 I’m currently working on various open-source web projects using React.
 - 🌱 Former React Developer Intern @ [Websoft Technology Nepal Pvt Ltd](https://websoftnepal.com.np/)
 - 💬 Ask me about anything, I'm happy to help!
 - 📫 How to reach me: riteshchaudhary587@gmail.com, [Twitter](https://twitter.com/riteshdheeraj), [LinkedIn](https://www.linkedin.com/in/riteshchaudhari7/)
