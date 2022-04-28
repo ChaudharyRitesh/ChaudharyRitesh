@@ -3,7 +3,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=riteshdheeraj&tw_p=followbutton/">Twitter</a> •
 <a href="https://www.linkedin.com/in/riteshchaudhari7/">LinkedIn</a> •
 <a href="https://dev.to/chaudharyritesh">Dev.to</a> •
-<a href="https://github.com/ChaudharyRitesh/">GitHub</a>
+<a href="https://github.com/ChaudharyRitesh/">GitHub</a> •
 <a href="https://instagram.com/itsriteshchaudhari/">Instagram</a>
 <br />
 
