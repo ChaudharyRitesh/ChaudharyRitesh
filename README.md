@@ -1,4 +1,4 @@
-# Hey its me, Ritesh 😉😉
+# Hey it's me, Ritesh 😉😉
 
 <a href="https://twitter.com/intent/follow?screen_name=riteshdheeraj&tw_p=followbutton/">Twitter</a> •
 <a href="https://www.linkedin.com/in/riteshchaudhari7/">LinkedIn</a> •
@@ -8,7 +8,8 @@
 <br />
 
 - 🔭 I’m currently working on various open-source web projects using React.
-- ReactJs Developer at Skein Software Solutions @[Skein Software Solutions](https://skeinsoft.com)
+- Software Development Engineer(I) at Abhay Education Private Limited @[Eduarno](https://urdoer.com)
+- Former ReactJs Developer at Skeinsoft @[SkeinSoft Solutions](https://skeinsoft.com)
 - Former Frontend Developer at Algorithm Pvt Ltd
 - 🌱 Former React Developer Intern @ [Websoft Technology Nepal Pvt Ltd](https://websoftnepal.com.np/)
 - 💬 Ask me about anything, I'm happy to help!
