@@ -6,8 +6,6 @@
 <a href="https://github.com/ChaudharyRitesh/">GitHub</a> •
 <a href="https://instagram.com/itsriteshchaudhari/">Instagram</a>
 <br />
-
-- 🔭 I’m currently working on various open-source web projects using React.
 - Software Development Engineer(I) at Abhay Education Private Limited @[Eduarno](https://urdoer.com)
 - Former ReactJs Developer at Skeinsoft @[SkeinSoft Solutions](https://skeinsoft.com)
 - Former Frontend Developer at Algorithm Pvt Ltd
